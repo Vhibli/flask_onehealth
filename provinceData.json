@@ -1,0 +1,11 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": [
+        {
+            "total": 71,
+            "hospital_province": "广东省",
+            "hospital_city": "广州市"
+        }
+    ]
+}

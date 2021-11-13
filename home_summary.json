@@ -1,0 +1,10 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "month": 145003,
+        "total": 889140,
+        "onMonth": 98462,
+        "ranking": 1
+    }
+}

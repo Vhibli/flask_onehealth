@@ -1,0 +1,23 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "province": [
+            {
+                "city": "广东省",
+                "total": 64
+            }
+        ],
+        "city": [
+            {
+                "city": "广州市",
+                "total": 34
+            }
+
+            {
+                "city": "深圳市",
+                "total": 30
+            }
+        ]
+    }
+}

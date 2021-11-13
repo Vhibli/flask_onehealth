@@ -1,0 +1,15 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": [
+        {
+            "address": "广东省广州市",
+            "cover": "https://oss.yijiankang365.com/one-health/20210322/22/08090565未来再生.png",
+            "employeeName": "钟文杰",
+            "id": "1347016946076454913",
+            "name": "广东未来再生医学中心",
+            "total": 94,
+            "userName": "杨杨"
+        }
+    ]
+}

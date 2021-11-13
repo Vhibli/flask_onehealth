@@ -1,0 +1,50 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": [
+        {
+            "industry": "医疗/护理/制药",
+            "total": 4
+        },
+        {
+            "industry": "计算机/互联网/通讯",
+            "total": 11
+        },
+        {
+            "industry": "商业/服务业/个体经营",
+            "total": 1
+        },
+        {
+            "industry": "文化/广告/传媒",
+            "total": 1
+        },
+        {
+            "industry": "娱乐/艺术/表演",
+            "total": 1
+        },
+        {
+            "industry": "律师/法务",
+            "total": 1
+        },
+        {
+            "industry": "金融/银行/投资/保险",
+            "total": 0
+        },
+        {
+            "industry": "公务员/行政/事业单位",
+            "total": 0
+        },
+        {
+            "industry": "教育/培训",
+            "total": 0
+        },
+        {
+            "industry": "其他的",
+            "total": 0
+        },
+        {
+            "industry": "生产/工艺/制造",
+            "total": 0
+        }
+    ]
+}

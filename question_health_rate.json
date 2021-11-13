@@ -1,0 +1,1090 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": [
+        {
+            "data": [],
+            "title": "性别",
+            "total": 0,
+            "type": 1,
+            "value": ""
+        },
+        {
+            "data": [],
+            "title": "年龄",
+            "total": 0,
+            "type": 2,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您的婚姻状况：",
+                    "total": 292146,
+                    "type": 3,
+                    "value": "未婚"
+                },
+                {
+                    "data": null,
+                    "title": "3.您的婚姻状况",
+                    "total": 152424,
+                    "type": 3,
+                    "value": "已婚"
+                }
+            ],
+            "title": "婚姻状态",
+            "total": 0,
+            "type": 3,
+            "value": ""
+        },
+        {
+            "data": [],
+            "title": "行业",
+            "total": 0,
+            "type": 4,
+            "value": ""
+        },
+        {
+            "data": [],
+            "title": "职业",
+            "total": 0,
+            "type": 5,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您是否具有国内商业保险：",
+                    "total": 76212,
+                    "type": 6,
+                    "value": "有"
+                },
+                {
+                    "data": null,
+                    "title": "您是否具有国内商业保险：",
+                    "total": 812928,
+                    "type": 6,
+                    "value": "没有"
+                }
+            ],
+            "title": "保险",
+            "total": 0,
+            "type": 6,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您是否做过细胞储存：",
+                    "total": 8106,
+                    "type": 7,
+                    "value": "有"
+                },
+                {
+                    "data": null,
+                    "title": "您是否做过细胞储存：",
+                    "total": 881034,
+                    "type": 7,
+                    "value": "没有"
+                }
+            ],
+            "title": "细胞存储",
+            "total": 0,
+            "type": 7,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您是否做过基因检测",
+                    "total": 7103,
+                    "type": 8,
+                    "value": "有"
+                },
+                {
+                    "data": null,
+                    "title": "您是否做过基因检测",
+                    "total": 882034,
+                    "type": 8,
+                    "value": "没有"
+                }
+            ],
+            "title": "基因检测",
+            "total": 0,
+            "type": 8,
+            "value": ""
+        },
+        {
+            "data": [],
+            "title": "年度健康消费",
+            "total": 0,
+            "type": 9,
+            "value": ""
+        },
+        {
+            "data": [],
+            "title": "疾病",
+            "total": 0,
+            "type": 10,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您的工作性质：",
+                    "total": 15,
+                    "type": 11,
+                    "value": "久坐"
+                },
+                {
+                    "data": null,
+                    "title": "您的工作性质",
+                    "total": 1,
+                    "type": 11,
+                    "value": "久站"
+                },
+                {
+                    "data": null,
+                    "title": "您的工作性质",
+                    "total": 2,
+                    "type": 11,
+                    "value": "走动多"
+                },
+                {
+                    "data": null,
+                    "title": "您的工作性质：",
+                    "total": 9,
+                    "type": 11,
+                    "value": "高强度脑力工作"
+                },
+                {
+                    "data": null,
+                    "title": "您的工作性质",
+                    "total": 2,
+                    "type": 11,
+                    "value": "体力工作"
+                }
+            ],
+            "title": "工作性质",
+            "total": 0,
+            "type": 11,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史：",
+                    "total": 6,
+                    "type": 12,
+                    "value": "贫血"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史",
+                    "total": 1,
+                    "type": 12,
+                    "value": "高血压"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史",
+                    "total": 1,
+                    "type": 12,
+                    "value": "糖尿病"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史：",
+                    "total": 2,
+                    "type": 12,
+                    "value": "高血脂"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史",
+                    "total": 2,
+                    "type": 12,
+                    "value": "肝炎"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史",
+                    "total": 1,
+                    "type": 12,
+                    "value": "脂肪肝"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "肥胖症"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "胃溃疡"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史：",
+                    "total": 1,
+                    "type": 12,
+                    "value": "急/慢性肠胃炎"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "冠心病"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "慢阻肺"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "肺结核"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "心率异常"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "高尿酸血脂症"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "恶性肿瘤"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "颈腰椎疾病"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "出血性脑卒中"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "妇科疾病"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "乳房疾病"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "其它"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下既往病史：",
+                    "total": 7,
+                    "type": 12,
+                    "value": "无"
+                }
+            ],
+            "title": "既往病史",
+            "total": 0,
+            "type": 12,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您是否有以下家族病史：",
+                    "total": 2,
+                    "type": 13,
+                    "value": "肝炎"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下家族病史：",
+                    "total": 1,
+                    "type": 13,
+                    "value": "高血压"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "糖尿病"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下家族病史：",
+                    "total": 1,
+                    "type": 13,
+                    "value": "冠心病"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下家族病史",
+                    "total": 1,
+                    "type": 13,
+                    "value": "高尿酸血症"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下家族病史：",
+                    "total": 2,
+                    "type": 13,
+                    "value": "高血脂症"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "肥胖症"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "慢阻肺"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "脑卒中"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "结核病"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "恶性肿瘤"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "骨关节疾病"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "其它"
+                },
+                {
+                    "data": null,
+                    "title": "您是否有以下家族病史：",
+                    "total": 10,
+                    "type": 13,
+                    "value": "无"
+                }
+            ],
+            "title": "家族病史",
+            "total": 0,
+            "type": 13,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 5,
+                    "type": 14,
+                    "value": "长斑长痘"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 5,
+                    "type": 14,
+                    "value": "失眠多梦"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 4,
+                    "type": 14,
+                    "value": "脱发"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 2,
+                    "type": 14,
+                    "value": "口渴多尿"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 2,
+                    "type": 14,
+                    "value": "记忆减退"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "出虚汗"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题",
+                    "total": 2,
+                    "type": 14,
+                    "value": "腹胀"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 2,
+                    "type": 14,
+                    "value": "厌食"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "大便干结"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "便秘"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "视力下降"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 3,
+                    "type": 14,
+                    "value": "生理期不准"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 1,
+                    "type": 14,
+                    "value": "其它"
+                },
+                {
+                    "data": null,
+                    "title": "您出现过以下哪些生理健康问题：",
+                    "total": 3,
+                    "type": 14,
+                    "value": "暂未发现"
+                }
+            ],
+            "title": "生理健康问题",
+            "total": 0,
+            "type": 14,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您一日三餐用餐是否准时：",
+                    "total": 6,
+                    "type": 15,
+                    "value": "是"
+                },
+                {
+                    "data": null,
+                    "title": "您一日三餐用餐是否准时：",
+                    "total": 7,
+                    "type": 15,
+                    "value": "偶尔不准时"
+                },
+                {
+                    "data": null,
+                    "title": "您一日三餐用餐是否准时：",
+                    "total": 3,
+                    "type": 15,
+                    "value": "经常不准时"
+                }
+            ],
+            "title": "三餐规律",
+            "total": 0,
+            "type": 15,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您的饮食偏好：",
+                    "total": 9,
+                    "type": 16,
+                    "value": "喜清淡"
+                },
+                {
+                    "data": null,
+                    "title": "您的饮食偏好：",
+                    "total": 4,
+                    "type": 16,
+                    "value": "喜甜食"
+                },
+                {
+                    "data": null,
+                    "title": "您的饮食偏好：",
+                    "total": 3,
+                    "type": 16,
+                    "value": "偏咸"
+                },
+                {
+                    "data": null,
+                    "title": "您的饮食偏好",
+                    "total": 1,
+                    "type": 16,
+                    "value": "偏油腻"
+                },
+                {
+                    "data": null,
+                    "title": "您的饮食偏好：",
+                    "total": 4,
+                    "type": 16,
+                    "value": "辛辣，重口味"
+                }
+            ],
+            "title": "饮食偏好",
+            "total": 0,
+            "type": 16,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您每天饮水量大约是（每杯大约250ml）：",
+                    "total": 3,
+                    "type": 17,
+                    "value": "0-1杯"
+                },
+                {
+                    "data": null,
+                    "title": "您每天饮水量大约是（每杯大约250ml）：",
+                    "total": 6,
+                    "type": 17,
+                    "value": "2-4杯"
+                },
+                {
+                    "data": null,
+                    "title": "您每天饮水量大约是（每杯大约250ml）：",
+                    "total": 5,
+                    "type": 17,
+                    "value": "5-8杯"
+                },
+                {
+                    "data": null,
+                    "title": "您每天饮水量大约是（每杯大约250ml）：",
+                    "total": 3,
+                    "type": 17,
+                    "value": "8杯以上"
+                }
+            ],
+            "title": "日饮水量",
+            "total": 0,
+            "type": 17,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您的饮酒情况：",
+                    "total": 6,
+                    "type": 18,
+                    "value": "不喝"
+                },
+                {
+                    "data": null,
+                    "title": "您的饮酒情况：",
+                    "total": 7,
+                    "type": 18,
+                    "value": "偶尔喝"
+                },
+                {
+                    "data": null,
+                    "title": "您的饮酒情况：",
+                    "total": 4,
+                    "type": 18,
+                    "value": "经常喝"
+                }
+            ],
+            "title": "饮酒情况",
+            "total": 0,
+            "type": 18,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您的烟龄：",
+                    "total": 5,
+                    "type": 19,
+                    "value": "1-5年"
+                },
+                {
+                    "data": null,
+                    "title": "您的烟龄：",
+                    "total": 2,
+                    "type": 19,
+                    "value": "5-10年"
+                },
+                {
+                    "data": null,
+                    "title": "您的烟龄：",
+                    "total": 2,
+                    "type": 19,
+                    "value": "10年以上"
+                },
+                {
+                    "data": null,
+                    "title": "您的烟龄：",
+                    "total": 8,
+                    "type": 19,
+                    "value": "不吸烟"
+                }
+            ],
+            "title": "烟龄",
+            "total": 0,
+            "type": 19,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您经常运动吗：",
+                    "total": 2,
+                    "type": 20,
+                    "value": "经常运动"
+                },
+                {
+                    "data": null,
+                    "title": "您经常运动吗：",
+                    "total": 9,
+                    "type": 20,
+                    "value": "偶尔运动"
+                },
+                {
+                    "data": null,
+                    "title": "您经常运动吗：",
+                    "total": 6,
+                    "type": 20,
+                    "value": "不运动"
+                }
+            ],
+            "title": "运动情况",
+            "total": 0,
+            "type": 20,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您通常会做什么类型的运动：",
+                    "total": 8,
+                    "type": 21,
+                    "value": "跑步健身"
+                },
+                {
+                    "data": null,
+                    "title": "您通常会做什么类型的运动：",
+                    "total": 2,
+                    "type": 21,
+                    "value": "瑜伽"
+                },
+                {
+                    "data": null,
+                    "title": "您通常会做什么类型的运动",
+                    "total": 1,
+                    "type": 21,
+                    "value": "游泳"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "球类运动"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "高尔夫"
+                },
+                {
+                    "data": null,
+                    "title": "您通常会做什么类型的运动",
+                    "total": 3,
+                    "type": 21,
+                    "value": "户外运动"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "极限运动"
+                },
+                {
+                    "data": null,
+                    "title": "您通常会做什么类型的运动：",
+                    "total": 6,
+                    "type": 21,
+                    "value": "基本不运动"
+                }
+            ],
+            "title": "运动类型",
+            "total": 0,
+            "type": 21,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您平均每天的睡眠时间是多久：",
+                    "total": 2,
+                    "type": 22,
+                    "value": "10小时以上"
+                },
+                {
+                    "data": null,
+                    "title": "您平均每天的睡眠时间是多久：",
+                    "total": 1,
+                    "type": 22,
+                    "value": "8-10小时"
+                },
+                {
+                    "data": null,
+                    "title": "您平均每天的睡眠时间是多久：",
+                    "total": 7,
+                    "type": 22,
+                    "value": "6-8小时"
+                },
+                {
+                    "data": null,
+                    "title": "您平均每天的睡眠时间是多久：",
+                    "total": 5,
+                    "type": 22,
+                    "value": "4-6小时"
+                },
+                {
+                    "data": null,
+                    "title": "您平均每天的睡眠时间是多久：",
+                    "total": 2,
+                    "type": 22,
+                    "value": "不足4小时"
+                }
+            ],
+            "title": "睡眠时间",
+            "total": 0,
+            "type": 22,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "如果出现身体不适，您的第一反应是什么：",
+                    "total": 3,
+                    "type": 23,
+                    "value": "就医检查"
+                },
+                {
+                    "data": null,
+                    "title": "如果出现身体不适，您的第一反应是什么：",
+                    "total": 4,
+                    "type": 23,
+                    "value": "休息缓解"
+                },
+                {
+                    "data": null,
+                    "title": "如果出现身体不适，您的第一反应是什么",
+                    "total": 1,
+                    "type": 23,
+                    "value": "在线问诊或咨询亲友"
+                },
+                {
+                    "data": null,
+                    "title": "如果出现身体不适，您的第一反应是什么",
+                    "total": 1,
+                    "type": 23,
+                    "value": "根据症状自行服药"
+                },
+                {
+                    "data": null,
+                    "title": "如果出现身体不适，您的第一反应是什么：",
+                    "total": 4,
+                    "type": 23,
+                    "value": "去药店买药"
+                },
+                {
+                    "data": null,
+                    "title": "如果出现身体不适，您的第一反应是什么：",
+                    "total": 3,
+                    "type": 23,
+                    "value": "熬一熬，忍一忍"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "其它"
+                }
+            ],
+            "title": "身体不适处理方式",
+            "total": 0,
+            "type": 23,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 6,
+                    "type": 24,
+                    "value": "定期体检"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 4,
+                    "type": 24,
+                    "value": "购买保健品"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些",
+                    "total": 4,
+                    "type": 24,
+                    "value": "接种疫苗"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 4,
+                    "type": 24,
+                    "value": "购买健康类商业保险"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 1,
+                    "type": 24,
+                    "value": "细胞存储"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 3,
+                    "type": 24,
+                    "value": "基因检测"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 2,
+                    "type": 24,
+                    "value": "美容护理"
+                },
+                {
+                    "data": null,
+                    "title": "您对于自身健康的投资行为有哪些：",
+                    "total": 3,
+                    "type": 24,
+                    "value": "其它"
+                }
+            ],
+            "title": "健康投资行为",
+            "total": 0,
+            "type": 24,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "您每年在健康保健方面的投资花费是多少：",
+                    "total": 6,
+                    "type": 25,
+                    "value": "100元以内"
+                },
+                {
+                    "data": null,
+                    "title": "您每年在健康保健方面的投资花费是多少：",
+                    "total": 7,
+                    "type": 25,
+                    "value": "100-1000元"
+                },
+                {
+                    "data": null,
+                    "title": "您每年在健康保健方面的投资花费是多少：",
+                    "total": 1,
+                    "type": 25,
+                    "value": "1000-10000元"
+                },
+                {
+                    "data": null,
+                    "title": "您每年在健康保健方面的投资花费是多少：",
+                    "total": 3,
+                    "type": 25,
+                    "value": "10000元及以上"
+                }
+            ],
+            "title": "年度健康投资金额",
+            "total": 0,
+            "type": 25,
+            "value": ""
+        },
+        {
+            "data": [
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 5,
+                    "type": 26,
+                    "value": "疾病防治"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 3,
+                    "type": 26,
+                    "value": "减肥健身"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 5,
+                    "type": 26,
+                    "value": "口腔护理"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 4,
+                    "type": 26,
+                    "value": "皮肤护理"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 5,
+                    "type": 26,
+                    "value": "食品安全"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 4,
+                    "type": 26,
+                    "value": "养生保健"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 3,
+                    "type": 26,
+                    "value": "饮食营养"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 4,
+                    "type": 26,
+                    "value": "失眠脱发"
+                },
+                {
+                    "data": null,
+                    "title": "",
+                    "total": 0,
+                    "type": 0,
+                    "value": "孕产"
+                },
+                {
+                    "data": null,
+                    "title": "在健康管理方面，您关注的领域有哪些：",
+                    "total": 2,
+                    "type": 26,
+                    "value": "其它"
+                }
+            ],
+            "title": "关注的健康领域",
+            "total": 0,
+            "type": 26,
+            "value": ""
+        }
+    ]
+}

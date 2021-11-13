@@ -1,0 +1,33 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "mapList": [
+            {
+                "city": "广东省",
+                "total": 76
+            },
+            {
+                "city": "北京市",
+                "total": 25
+            },
+            {
+                "city": "广西",
+                "total": 27
+            },
+            {
+                "city": "天津市",
+                "total": 14
+            },
+            {
+                "city": "海南省",
+                "total": 30
+            },
+            {
+                "city": "江西省",
+                "total": 18
+            }
+        ],
+        "total": 190
+    }
+}

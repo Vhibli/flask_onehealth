@@ -1,0 +1,68 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "UserInfoRate": [
+            {
+                "age": "0-18",
+                "total": 0
+            },
+            {
+                "age": "19-25",
+                "total": 140346
+            },
+            {
+                "age": "26-35",
+                "total": 32156
+            },
+            {
+                "age": "36-45",
+                "total": 21685
+            },
+            {
+                "age": "46-60",
+                "total": 13645
+            },
+            {
+                "age": "60-80",
+                "total": 0
+            },
+            {
+                "age": ">80",
+                "total": 0
+            }
+        ],
+        "sex": [
+            {
+                "total": 495378,
+                "value": "男"
+            },
+            {
+                "total": 393762,
+                "value": "女"
+            }
+        ],
+        "position": [
+            {
+                "position": "普通员工",
+                "total": 22
+            },
+            {
+                "position": "经理",
+                "total": 1
+            },
+            {
+                "position": "总监",
+                "total": 0
+            },
+            {
+                "position": "总经理",
+                "total": 1
+            },
+            {
+                "position": "自由职业",
+                "total": 0
+            }
+        ]
+    }
+}

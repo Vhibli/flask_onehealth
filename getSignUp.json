@@ -1,0 +1,13 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "mapList": [
+            {
+                "city": "广东省",
+                "total": 64
+            }
+        ],
+        "total": 64
+    }
+}

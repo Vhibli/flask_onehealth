@@ -1,0 +1,63 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "province": [
+            {
+                "city": "广东省",
+                "total": 76
+            },
+            {
+                "city": "北京市",
+                "total": 25
+            },
+            {
+                "city": "广西",
+                "total": 27
+            },
+            {
+                "city": "天津市",
+                "total": 14
+            },
+            {
+                "city": "海南省",
+                "total": 30
+            },
+            {
+                "city": "江西省",
+                "total": 18
+            }
+        ],
+        "city": [
+            {
+                "city": "广州市",
+                "total": 56
+            },
+            {
+                "city": "深圳市",
+                "total": 47
+            },
+            {
+                "city": "南宁市",
+                "total": 32
+            },
+            {
+                "city": "北京市",
+                "total": 20
+            },
+
+            {
+                "city": "天津市",
+                "total": 10
+            },
+            {
+                "city": "三亚市",
+                "total": 13
+            },
+            {
+                "city": "九江市",
+                "total": 21
+            }
+        ]
+    }
+}

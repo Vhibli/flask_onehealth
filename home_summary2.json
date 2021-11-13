@@ -1,0 +1,86 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data":{
+            "enterpriseTotal": 190,
+            "hospitalTotal": 64,
+            "list": [
+        
+                {
+                    "createTime": 1618456146000,
+                    "employeeName": "吴凤静",
+                    "name": "广州体检服务中心"
+                },
+                {
+                    "createTime": 1617848897000,
+                    "employeeName": "刘腾州",
+                    "name": "广州佑源生物"
+                },
+                {
+                    "createTime": 1617778529000,
+                    "employeeName": "蔡伟",
+                    "name": "广州医科大学附属第一医院"
+                },
+                {
+                    "createTime": 1617767476000,
+                    "employeeName": "",
+                    "name": "健康系统"
+                },
+                {
+                    "createTime": 1617263773000,
+                    "employeeName": "",
+                    "name": "测试机构"
+                },
+                {
+                    "createTime": 1617257557000,
+                    "employeeName": "吴凤静",
+                    "name": "健康体检中心"
+                },
+                {
+                    "createTime": 1616739194000,
+                    "employeeName": "李白",
+                    "name": "从化中医院"
+                },
+                {
+                    "createTime": 1616579320000,
+                    "employeeName": "",
+                    "name": "阿里里"
+                },
+                {
+                    "createTime": 1616577122000,
+                    "employeeName": "",
+                    "name": "巧匠汇"
+                },
+                {
+                    "createTime": 1616571468000,
+                    "employeeName": "",
+                    "name": "中山大学附属第一医院"
+                },
+                {
+                    "createTime": 1616466264000,
+                    "employeeName": "车小生（渠道）",
+                    "name": "马坳镇中心医院"
+                },
+                {
+                    "createTime": 1616378696000,
+                    "employeeName": "",
+                    "name": "广东省壹健康信息科技有限公司"
+                },
+                {
+                    "createTime": 1611210420000,
+                    "employeeName": "",
+                    "name": "佑民医疗综合门诊部"
+                },
+                {
+                    "createTime": 1611202873000,
+                    "employeeName": "",
+                    "name": "广州中鑫基因实验室"
+                },
+                {
+                    "createTime": 1609988840000,
+                    "employeeName": "",
+                    "name": "广东未来再生医学中心健康管理有限公司"
+                }
+            ]
+        }
+}

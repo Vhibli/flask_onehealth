@@ -1,0 +1,20 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": [
+        {
+            "city": "广州市",
+            "cityCount": 53229
+        },
+
+        {
+            "city": "深圳市",
+            "cityCount": 34214
+        },
+
+        {
+            "city": "南宁市",
+            "cityCount": 13513
+        }
+    ]
+}

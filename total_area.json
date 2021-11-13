@@ -1,0 +1,42 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "province": [
+            {
+                "city": "广东省",
+                "total": 31
+            },
+            {
+                "city": "广西",
+                "total": 15
+            },
+            {
+                "city": "海南省",
+                "total": 11
+            },
+            {
+                "city": "江西省",
+                "total": 7
+            }
+        ],
+        "city": [
+            {
+                "city": "广州市",
+                "total": 20
+            },
+            {
+                "city": "深圳市",
+                "total": 11
+            },
+            {
+                "city": "南宁市",
+                "total": 15
+            },
+            {
+                "city": "九江市",
+                "total": 7
+            }
+        ]
+    }
+}

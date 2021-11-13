@@ -1,0 +1,22 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": {
+        "enterpriseQuarterly": {
+            "total": 18922,
+            "quarterly": 4
+        },
+        "enterpriseToQuarterly": {
+            "total": 15356,
+            "quarterly": 3
+        },
+        "quarterly": {
+            "total": 6,
+            "quarterly": 4
+        },
+        "toQuarterly": {
+            "total": 4,
+            "quarterly": 3
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "msg": "OK",
+    "code": 200,
+    "data": [
+        {
+            "firstLevelProjectNameOne": "尿常规",
+            "total": 1641
+        },
+        {
+            "firstLevelProjectNameOne": "乙肝丙肝梅毒",
+            "total": 261
+        },
+        {
+            "firstLevelProjectNameOne": "胃功能",
+            "total": 8766
+        },
+        {
+            "firstLevelProjectNameOne": "血常规",
+            "total": 6411
+        },
+        {
+            "firstLevelProjectNameOne": "C14碳气试验",
+            "total": 746
+        },
+        {
+            "firstLevelProjectNameOne": "基础信息",
+            "total": 6412
+        },
+        {
+            "firstLevelProjectNameOne": "血压",
+            "total": 26416
+        },
+        {
+            "firstLevelProjectNameOne": "心率",
+            "total": 16735
+        },
+        {
+            "firstLevelProjectNameOne": "ABO血型",
+            "total": 42534
+        },
+        {
+            "firstLevelProjectNameOne": "胸部正位片",
+            "total": 1334
+        },
+        {
+            "firstLevelProjectNameOne": "肾功能",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "血糖",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "性激素六项",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "血脂",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "妇科常规",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "抗缪勒管激素（AMH）",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "白带常规",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "碳14-幽门螺杆菌",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "肛门镜（直肠镜）",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "电子结肠镜",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "胃功能四项",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "肝功能",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "心电",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "彩超",
+            "total": 0
+        },
+        {
+            "firstLevelProjectNameOne": "超声",
+            "total": 0
+        }
+    ]
+}
